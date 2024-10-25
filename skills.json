@@ -8,7 +8,14 @@
       "https://www.coursera.org/learn/programming-with-javascript",
       "https://www.coursera.org/specializations/javascript-beginner",
       "https://www.youtube.com/"
-    ]
+  },
+  {
+  "name": "Vismitha",
+    "skill": "java",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/c++",
+      "https://java.info/"
+      
   },
   {
     "name": "Anushri Pathak",
@@ -16,7 +23,6 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
-    ]
   },
   {
     "name": "Kartika",
@@ -24,6 +30,5 @@
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
-    ]
   }
 ]
