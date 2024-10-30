@@ -20,10 +20,18 @@
   },
   {
     "name": "Kartika",
-    "skill": "C++",
+    "skill": "HTML",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
+  },
+  {
+    "name": "Poojitha",
+    "skill": "C ",
+    "resources": [
+      "https://onecompiler.com/html",
+      "https://html.info/"
+    ]
   }
-]
+
