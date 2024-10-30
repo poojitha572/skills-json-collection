@@ -216,5 +216,11 @@
       "https://developer.mozilla.org/en-US/docs/Web/CSS",
       "https://web.dev/learn/css" 
      ]
+   },
+   {
+     "name": "Poojitha",
+    "skill":"html"
+     "resources": [
+      "https://onecompiler.com/html" 
+     ]
    }
-]
