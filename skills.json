@@ -220,5 +220,14 @@
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
     ]
+  },
+  {
+      "name": "dishavreddy",
+    "skill": "Java",
+    "resources": [
+      "https://www.programiz.com/java-programming",
+      "https://www.javatpoint.com/java-tutorial"
+    
+    ]
   }
 
