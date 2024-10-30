@@ -28,15 +28,7 @@
       "https://c++.info/"
     ]
   },
-  {
-    "name": "Poojitha",
-    "skill": "C ",
-    "resources": [
-      "https://onecompiler.com/html",
-      "https://html.info/"
-    ]
-  }
-{
+ {
     "name": "shruthi",
     "skill": "C",
     "resources": [
@@ -218,9 +210,11 @@
      ]
    },
    {
-     "name": "Poojitha",
-    "skill":"html"
-     "resources": [
-      "https://onecompiler.com/html" 
-     ]
-   }
+    "name": "Poojitha",
+    "skill": "C ",
+    "resources": [
+      "https://onecompiler.com/c",
+      "https://c.info/"
+    ]
+  }
+   
