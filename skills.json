@@ -220,7 +220,16 @@
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
     ]
-  }
+  },
+  {
+  "name": "dishavreddy",
+    "skill": "Java",
+      "resources": [
+  "https://www.baeldung.com/java-try-with-resources",
+      "https://www.programiz.com/java-programming"
+  
+      ]
+  },
 {
   "name":"shreyoshi"
   "skill":"java"
@@ -229,5 +238,3 @@
     "https://www.geeksforgeeks.org/",
   ]
 }
-    
-
