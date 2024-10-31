@@ -229,4 +229,12 @@
       "https://www.programiz.com/java-programming"
   
       ]
-  }
+  },
+{
+  "name":"shreyoshi"
+  "skill":"java"
+  "resources":[
+    "https://takeyouforward.org/strivers-sde-sheet-coding-problems",
+    "https://www.geeksforgeeks.org/",
+  ]
+}
