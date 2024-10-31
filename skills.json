@@ -229,4 +229,40 @@
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "https://javascript.info/"
     ]
+  },
+  {
+      "name": "dishavreddy",
+    "skill": "Java",
+    "resources": [
+      "https://www.programiz.com/java-programming",
+      "https://www.javatpoint.com/java-tutorial" 
+    
+    ]
   }
+,
+  {
+    "name":"poorvika",
+    "skill": "C",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://javascript.info/"
+    ]
+  },
+  {
+  "name": "dishavreddy",
+    "skill": "Java",
+      "resources": [
+  "https://www.baeldung.com/java-try-with-resources",
+      "https://www.programiz.com/java-programming"
+  
+      ]
+  },
+{
+  "name":"shreyoshi"
+  "skill":"java"
+  "resources":[
+    "https://takeyouforward.org/strivers-sde-sheet-coding-problems",
+    "https://www.geeksforgeeks.org/",
+  ]
+}
+]
